@@ -875,7 +875,7 @@ omgmta1.qq.com
 oth.eve.mdt.qq.com
 oth.str.mdt.qq.com
 oth.update.mdt.qq.com
-pingma.qq.com
+#pingma.qq.com
 sngmta.qq.com
 strategy.beacon.qq.com
 # > qq-1
